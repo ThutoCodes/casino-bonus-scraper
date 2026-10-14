@@ -1,0 +1,48 @@
+{
+  "source": "https://www.bojoko.com",
+  "generated_at": "2026-10-14T17:28:14+00:00",
+  "casinos": [
+    {
+      "welcome_bonus": "50% up to 100 GBP",
+      "wagering_multiplier": 10,
+      "min_deposit": {
+        "amount": 20.0,
+        "currency": "GBP"
+      },
+      "casino": "Casumo Casino",
+      "source_url": "https://www.bojoko.com/casino/review/casumo/",
+      "scraped_at": "2026-10-14T17:28:08+00:00",
+      "raw_terms": "1st deposit bonus 50%/£100 Minimum deposit for bonus £20 Extra 1st deposit bonus info Wagering requirements (bonus money) 10x (B) Wagering requirements (bonus spins) 0x Maximum bet for wagering £5 Maximum cash out Unlimited Basic information Launch date 10/2012 Minimum deposit £10 Platform Independent / No platform Sports betting Yes Live casino Yes Bingo No  +2 18+. New customers only. Opt-in required. 50% Deposit Bonus up to £100 on first deposit. Min deposit £20. 10x wagering on bonus amount. Max £5 per bet. Bonus valid for 7 days. Game, play and payment method restrictions apply. Play responsibly. Full terms and Bonus terms apply. GambleAware.org.",
+      "needs_review": false,
+      "review_notes": []
+    },
+    {
+      "welcome_bonus": "100% up to 25 GBP",
+      "wagering_multiplier": 10,
+      "min_deposit": {
+        "amount": 10.0,
+        "currency": "GBP"
+      },
+      "casino": "10bet Casino",
+      "source_url": "https://www.bojoko.com/casino/review/10bet/",
+      "scraped_at": "2026-10-14T17:28:11+00:00",
+      "raw_terms": "1st deposit bonus 100%/£25 Minimum deposit for bonus £10 Extra 1st deposit bonus info Wagering requirements (bonus money) 10x (B) Wagering requirements (bonus spins) 0x Maximum bet for wagering No limit Maximum cash out £1,000 Basic information Launch date 01/2003 Minimum deposit £10 Platform Independent / No platform Sports betting Yes Live casino Yes Bingo No  +2 Select bonus at sign-up and make your first deposit within 7 days. Wager bonus 10x within 3 days on slots. Max bonus winnings: £1,000. Bonus not redeemable. Payment restrictions apply. T&Cs apply. 18+. Full terms and Bonus terms apply. GambleAware.org.",
+      "needs_review": false,
+      "review_notes": []
+    },
+    {
+      "welcome_bonus": "136 bonus spins",
+      "wagering_multiplier": 2,
+      "min_deposit": {
+        "amount": 36.0,
+        "currency": "GBP"
+      },
+      "casino": "36Vegas Casino",
+      "source_url": "https://www.bojoko.com/casino/review/36vegas/",
+      "scraped_at": "2026-10-14T17:28:14+00:00",
+      "raw_terms": "36VCASINOWELC View code Copied  1st deposit bonus 136 bonus spins Minimum deposit for bonus £36 Extra 1st deposit bonus info Wagering requirements (bonus money) 0x Wagering requirements (bonus spins) 2x Maximum bet for wagering No limit Maximum cash out Unlimited Basic information Launch date 10/2025 Minimum deposit £10 Platform EveryMatrix Sports betting Yes Live casino Yes Bingo No 36VCASINOWELC View code Copied  18+. New UK customers only. Deposit and wager £36 on slots with bonus code to get 136 bonus spins on selected games. 2x wagering on spin winnings. No max win limit. 7-day expiry. Invited selected accounts only. T&Cs apply. \r\n\r\n Full terms and Bonus terms apply. GambleAware.org.",
+      "needs_review": false,
+      "review_notes": []
+    }
+  ]
+}
