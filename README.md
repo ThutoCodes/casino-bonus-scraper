@@ -69,5 +69,5 @@ Bojoko is a UK site, so all values are in GBP.
 
 - The casino list (`CASINO_SLUGS` in `source.py`) is fixed at 3. Scaling up would mean reading the list from Bojoko's sitemap or a database.
 - The page parser depends on Bojoko's current CSS class (`card-toplist-row--bonus-card`). If they change their markup, `source.py` raises a `ParseError` for that casino rather than writing bad data.
-- The grounding check catches invented numbers, not misread ones. If the model picks the wrong number that does appear in the text, it passes the check. See `WRITEUP.md` for a real example.
+- The grounding check catches invented numbers, not misread ones. Real example: 36Vegas offers spins only, and its card lists "bonus money 0x" and "bonus spins 2x". The model first returned 0x, which passed the check because "0x" is in the text. The prompt now says to use the wagering for what the offer actually gives, but a wrong-but-present number can still get through.
 - Gemini's free tier is sometimes overloaded (503). The retries usually cover it; set `GEMINI_MODEL` in `.env` to switch model if needed.
