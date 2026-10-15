@@ -4,6 +4,8 @@ Scrapes the welcome bonus for 3 online casinos from [Bojoko](https://www.bojoko.
 
 **Live page:** https://thutocodes.github.io/casino-bonus-scraper/
 
+**Write-up** (production plan, AI notes, time taken): [WRITEUP.md](WRITEUP.md)
+
 | Field | Example from the output |
 |---|---|
 | Welcome bonus | 50% up to 100 GBP |
