@@ -14,10 +14,10 @@
 
 ## AI
 
-I used Claude Code (Claude Opus 5.5) to build and deploy the scraper; the scraper uses Gemini 3.5 Flash-Lite to turn bonus terms into fields.
-For 36Vegas, a spins-only offer, Gemini returned 0x wagering because the page also lists "bonus money 0x" next to "bonus spins 2x".
-The scraper's check that each number appears in the source text passed it, because "0x" really is on the page.
-It was only caught by comparing the JSON with the raw terms by hand.
+I used Claude Code (Claude Opus 5.5) to build and deploy the scraper; the scraper uses Gemini 3.5 Flash-Lite to turn bonus terms into fields.<br>
+For 36Vegas, a spins-only offer, Gemini returned 0x wagering because the page also lists "bonus money 0x" next to "bonus spins 2x".<br>
+The scraper's check that each number appears in the source text passed it, because "0x" really is on the page.<br>
+It was only caught by comparing the JSON with the raw terms by hand.<br>
 I changed the prompt to use the wagering for what the offer actually gives, and the README notes that this check can't catch a number that is in the text but wrong.
 
 ## Time taken
